@@ -1,3 +1,8 @@
+# Versión del curso
+Versión v1.2.2, v1.2.0 de compilación
+
+
+
 # Cabeceras
 # Cabecera H1
 ## Cabecera H2
